@@ -19,8 +19,8 @@
 3. [EasyEDA](https://easyeda.com) онлайн IDE для разработки радиосхем
 
 ## Железо
-1. Плата esp32doit-devkit-v1
-2. Плата XL1278-SMT с радиочипом SX1278
+1. Плата ESP32 [doit-devkit-v1](https://docs.platformio.org/en/latest/boards/espressif32/esp32doit-devkit-v1.html)
+2. Плата XL1278-SMT с радиочипом [SX1278](https://github.com/wla-da/ais_lab_tools/blob/main/rf/datascheet/SX1278.pdf)
 
 
 ## Разводка выводов на плате esp32doit-devkit-v1
