@@ -65,4 +65,4 @@
 
 ## Полезные ссылки
 1. Техническая спецификация AIS [ITU-R M.1371-1](https://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.1371-1-200108-S!!PDF-E.pdf)
-2. Даташит [SI4463](https://www.silabs.com/documents/public/data-sheets/Si4463-61-60-C.pdf) 
+2. Даташит [SX1278](https://github.com/wla-da/ais_lab_tools/blob/main/rf/datascheet/SX1278.pdf)
